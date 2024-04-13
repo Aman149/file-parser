@@ -1,0 +1,1 @@
+[{"SecurityID":"01GWTEST UNH","RateName":"Units End of Day","Bid":0.9999,"Offer":0.9999,"EffectiveDateDetail":"18-Mar-2024"},{"SecurityID":"USD COIN","RateName":"Units End of Day","Bid":0.9999,"Offer":0.9999,"EffectiveDateDetail":"18-Mar-2024"}]

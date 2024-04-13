@@ -1,0 +1,7 @@
+{
+    "importLocation": "./import/input",
+    "successFolder": "./import/processed",
+    "errorFolder": "./import/error",
+    "pollingInterval": 500000,
+    "mongoURI": "mongodb://localhost:27017/your_database_name"
+}
