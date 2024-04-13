@@ -1,4 +1,4 @@
-# JSON Data Processor
+# File Processor
 
 This project is a JSON data processor designed to parse JSON files located in a specified directory, extract relevant information, and store it in text files. It is built using Node.js and follows a microservices architecture.
 
